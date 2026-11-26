@@ -6,9 +6,8 @@
 
 ## Dashboards
 
-![Delivery performance dashboard](images/delivery_dashboard.png)
-![Seller and category dashboard](images/seller_category_dashboard.png)
-
+![Delivery performance dashboard](delivery_dashboard.png)
+![Seller and category dashboard](seller_category_dashboard.png)
 ## Scope and tools
 
 - **Data:** Brazilian E-Commerce Public Dataset by Olist (Kaggle)
